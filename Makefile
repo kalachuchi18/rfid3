@@ -25,4 +25,4 @@ mercuryapi-$(APIVER)/.done: $(APIZIP)
 	touch mercuryapi-$(APIVER)/.done
 
 $(APIZIP):
-	curl https://www.jadaktech.com/wp-content/uploads/2020/01/$(APIZIP) -o $(APIZIP)
+	curl https://www.jadaktech.com/wp-content/uploads/2022/08/$(APIZIP) -o $(APIZIP)
