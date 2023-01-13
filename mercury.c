@@ -20,7 +20,7 @@
  * THE SOFTWARE.
  */
 
-#include <tm_reader.h>
+#include "tm_reader.h"
 
 #include <Python.h>
 #include <structmember.h>
