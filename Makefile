@@ -1,4 +1,4 @@
-APIZIP ?= mercuryapi-YEATS-1.31.4.35-1.zip
+APIZIP ?= mercuryapi-YEATS-1.31.4.35-1-1.zip
 APIVER ?= 1.31.4.35
 PYTHON ?= $(shell { command -v python3 || command -v python; } 2>/dev/null)
 
